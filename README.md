@@ -118,7 +118,7 @@ Ensure MongoDB is installed and running in the background.
 
 Interested in contributing? Check out our [issues section](https://github.com/karthik2607/Zappy-Messaging/issues) or submit a pull request. Let’s collaborate and make Zappy the go-to chat app for secure and scalable communication.
 
-Reach out to [**Karthik Sudhan S G**](https://github.com/karthik2607) for discussions or queries. Your ideas and expertise are always welcome! 🌟
+Reach out to [**Karthik Sudhan S G**](https://www.linkedin.com/in/karthik-sudhan-s-g/) for discussions or queries. Your ideas and expertise are always welcome! 🌟
 
 ---
 
