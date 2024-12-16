@@ -21,7 +21,7 @@ Maintained by [**Karthik Sudhan S G**](https://github.com/karthik2607), Zappy is
 
 Our vision includes implementing **end-to-end encryption** to ensure user privacy and make Zappy as secure as possible. By securing conversations, Zappy will align with industry standards like **WhatsApp** and **Signal** while maintaining an open-source philosophy.
 
-We’re looking for contributors to help design and implement encryption protocols, improve performance, and build new features! 🎉
+I am looking for contributors to help design and implement encryption protocols, improve performance, and build new features! 🎉
 
 ---
 
